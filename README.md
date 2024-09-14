@@ -12,7 +12,8 @@ Para usar QuickPost localmente, siga estas etapas:
 Primeiro, você deve clonar o repositório para o seu ambiente local. Execute o seguinte comando no terminal:
 
 Código no bash:
-```<git clone https:...>
+```
+<git clone https:...>
 ```
 
 2. Acesse o diretório do projeto
