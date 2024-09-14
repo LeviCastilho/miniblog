@@ -17,19 +17,28 @@ Código no bash:
 ```
 
 2. Acesse o diretório do projeto
-Depois de clonar, navegue até a pasta em que está o projeto:
+depois de clonar, navegue até a pasta em que está o projeto:
 
-Código no bash: cd "pastaQuickPost"
+Código no bash:
+```
+<cd "pastaQuickPost">
+```
 
 3. Instale as dependências
 Agora, instale todas as dependências necessárias usando o npm:
 
-Código no bash: npm install
+Código no bash: 
+```
+<npm install>
+```
 
 4. Execute o servidor de desenvolvimento
 Após a instalação das dependências, você pode rodar o projeto normalmente:
 
-Código no bash: npm start
+Código no bash: 
+```
+<npm start>
+```
 
 5. Acesse a aplicação
 Com o servidor em execução, abra o navegador e vá para http://localhost:3000
