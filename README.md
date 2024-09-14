@@ -44,3 +44,11 @@ Código no bash:
 Com o servidor em execução, abra o navegador e vá para http://localhost:3000
 
 PRONTO! Agora você pode usar o QuickPost localmente para criar, visualizar e deletar postagens!
+
+## 🛠 Contribuidores
+
+Agradecimento a contribuição do projeto:
+
+- **Jotinha14** - Desenvolvimento e estrutura do projeto.
+- **Br3no4k** - Implementação de funcionalidades.
+- **LeviCastilho** - Design e responsividade.
