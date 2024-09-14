@@ -13,22 +13,22 @@ Primeiro, você deve clonar o repositório para o seu ambiente local. Execute o 
 
 Código no bash: git clone https:...
 
-3. Acesse o diretório do projeto
+2. Acesse o diretório do projeto
 Depois de clonar, navegue até a pasta em que está o projeto:
 
 Código no bash: cd "pastaQuickPost"
 
-5. Instale as dependências
+3. Instale as dependências
 Agora, instale todas as dependências necessárias usando o npm:
 
 Código no bash: npm install
 
-7. Execute o servidor de desenvolvimento
+4. Execute o servidor de desenvolvimento
 Após a instalação das dependências, você pode rodar o projeto normalmente:
 
 Código no bash: npm start
 
-9. Acesse a aplicação
+5. Acesse a aplicação
 Com o servidor em execução, abra o navegador e vá para http://localhost:3000
 
 PRONTO! Agora você pode usar o QuickPost localmente para criar, visualizar e deletar postagens!
