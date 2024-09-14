@@ -13,7 +13,7 @@ Primeiro, você deve clonar o repositório para o seu ambiente local. Execute o 
 
 Código no bash:
 ```
-<git clone [https:...](https://github.com/LeviCastilho/miniblog.git)>
+<git clone https://github.com/LeviCastilho/miniblog.git>
 ```
 
 2. Acesse o diretório do projeto
